@@ -96,7 +96,7 @@ const setChangerItemSize = (e)=>{
                         <div className="row">
                             <div className="col-md-12">
                                 <center>
-                                <h2 className="h3 mb-5 mt-5 text-black">HOW WE CAN HELP YOU ?</h2>
+                                <h2 className="h3 mb-5 mt-5 text-black">HOW WE CAN test ?</h2>
 
                                 </center>
                             </div>
